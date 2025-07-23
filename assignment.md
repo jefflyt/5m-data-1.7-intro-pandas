@@ -15,6 +15,7 @@ Question: Select all numeric columns except float from the DataFrame `dft`.
 Answer:
 
 ```python
+es
 
 ```
 
